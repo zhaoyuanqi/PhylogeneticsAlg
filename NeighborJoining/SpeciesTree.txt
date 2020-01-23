@@ -1,0 +1,6 @@
+5
+homoSapiens_p53	0	7	10	9	8
+houseMouse_p53	7	0	10	9	9
+cattle_p53	10	10	0	9	9
+chimpanzee_p53	9	9	9	0	10
+norwayRat_p53	8	9	9	10	0
